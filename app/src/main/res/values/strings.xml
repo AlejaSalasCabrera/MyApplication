@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a1">Actividad1</string>
+    <string name="a2">Actividad2</string>
+    <string name="str_item1">item1</string>
+    <string name="str_item2">item2</string>
+</resources>
